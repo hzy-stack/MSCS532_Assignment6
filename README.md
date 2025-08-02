@@ -1,7 +1,7 @@
 # MSCS532_Assignment6
 MSCS532 Assignment6
 
-### Run heapsort algorithm and sorting_comparisions
+### Run quicksort algorithm and sorting_comparisions
 In MSCS532_Assignment6 folder, run command below
 ```shell
 # Run determintistic quick sort test
